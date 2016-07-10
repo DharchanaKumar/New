@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void) {
+int main(void) 
+{
 int n,i,j=0,b[100],a[100];
 scanf("%d",&n);
 for(i=0;i<n;i++)
